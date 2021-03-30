@@ -1,1 +1,2 @@
 
+ssh -i ~/.ssh/holberton ubuntu@35.243.195.209
