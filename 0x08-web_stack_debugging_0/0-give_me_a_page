@@ -1,4 +1,4 @@
-# !/usr/bin/env bash
+#!/usr/bin/env bash
 # debugging task 0
 sudo apt-get update
 sudo apt-get install -y apache2
