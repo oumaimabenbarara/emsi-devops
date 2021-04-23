@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Read file and manipulate fields to generate story
+# a Read file and manipulate fields to generate story
 
 FILE="/etc/passwd"
 
